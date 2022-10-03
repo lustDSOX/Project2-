@@ -9,8 +9,8 @@ main() {
 	char* first = "first";
 	char* second = "second";
 
-    /*char* s = concat(first, second);
-    printf("%s\n", s);*/
+    char* s = concat(first, second);
+    printf("%s\n", s);
 
 
 }

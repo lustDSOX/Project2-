@@ -1,6 +1,7 @@
 #pragma once
 #include <stdio.h>
 #include <string.h>
+#include <malloc.h>
 
 int summ(int, int);
 int subt(int, int);
